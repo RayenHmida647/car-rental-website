@@ -2,15 +2,11 @@
 
 
 
-A simple but complete car rental website. PHP, MySQL, star ratings, customer reviews, and online booking.
+### A simple but complete car rental website. PHP, MySQL, star ratings, customer reviews, and online booking.
 
 
 
-!\[Banner](images/banner.jpg)
 
-
-
----
 
 
 
@@ -53,7 +49,7 @@ A simple but complete car rental website. PHP, MySQL, star ratings, customer rev
 
 
 
-\## 🛠️ TECH STACK
+##  TECH STACK
 
 
 
@@ -194,6 +190,7 @@ Give it a star on GitHub! ⭐
 
 
 ---
+
 
 
 
