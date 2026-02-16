@@ -20,11 +20,11 @@ A simple but complete car rental website. PHP, MySQL, star ratings, customer rev
 
 
 
-##  Home | ![Home](screenshots/home.png) |
-## Cars | ![Cars](screenshots/cars.png) |
-## Ratings | ![Ratings](screenshots/rating.png) |
-## Reviews | ![Reviews](screenshots/reviews.png) |
-## Booking | ![Booking](screenshots/booking.png) |
+##  Home  ![Home](screenshots/home.png) |
+## Cars  ![Cars](screenshots/cars.png) |
+## Ratings  ![Ratings](screenshots/ratings.png) |
+## Reviews  ![Reviews](screenshots/reviews.png) |
+## Booking  ![Booking](screenshots/booking.png) |
 
 
 ---
@@ -195,6 +195,7 @@ Give it a star on GitHub! ⭐
 
 
 ---
+
 
 
 
