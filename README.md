@@ -77,7 +77,7 @@
 
 ```
 
-git clone https://github.com/RayenHmida647/car-rental.git
+git clone https://github.com/RayenHmida647/car-rental_website.git
 
 ```
 
@@ -157,7 +157,7 @@ car-rental/
 
 
 
-\*\*Rayen Hmida\*\*  
+ Rayen Hmida
 
 \- GitHub: \[@RayenHmida647](https://github.com/RayenHmida647)
 
@@ -190,6 +190,7 @@ Give it a star on GitHub! ⭐
 
 
 ---
+
 
 
 
