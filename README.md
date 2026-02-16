@@ -14,17 +14,17 @@ A simple but complete car rental website. PHP, MySQL, star ratings, customer rev
 
 
 
-\##  QUICK PREVIEW
+##  QUICK PREVIEW
 
 
 
 
 
-##  Home  ![Home](screenshots/home.png) |
-## Cars  ![Cars](screenshots/cars.png) |
-## Ratings  ![Ratings](screenshots/ratings.png) |
-## Reviews  ![Reviews](screenshots/reviews.png) |
-## Booking  ![Booking](screenshots/booking.png) |
+##  Home  ![Home](screenshots/home.png) 
+## Cars  ![Cars](screenshots/cars.png)
+## Ratings  ![Ratings](screenshots/ratings.png) 
+## Reviews  ![Reviews](screenshots/reviews.png) 
+## Booking  ![Booking](screenshots/booking.png) 
 
 
 ---
@@ -73,11 +73,11 @@ A simple but complete car rental website. PHP, MySQL, star ratings, customer rev
 
 
 
-\## 📦 INSTALLATION (5 MIN)
+##  INSTALLATION (5 MIN)
 
 
 
-\### 1. Download the project
+### 1. Download the project
 
 ```
 
@@ -87,17 +87,17 @@ git clone https://github.com/RayenHmida647/car-rental.git
 
 
 
-\### 2. Move to `htdocs`
+### 2. Move to `htdocs`
 
 ```
 
 C:\\xampp\\htdocs\\car-rental\\
 
 ```
-\### 3. Start XAMPP
+### 3. Start XAMPP
 
 
-\### 4. Create database
+### 4. Create database
 
 \- Open phpMyAdmin
 
@@ -106,8 +106,7 @@ C:\\xampp\\htdocs\\car-rental\\
 
 
 
-
-\### 6. Open Website
+### 5. Open Website
 
 
 \- Open: `http://localhost/car-rental`
@@ -118,7 +117,7 @@ C:\\xampp\\htdocs\\car-rental\\
 
 
 
-\## 📁 PROJECT STRUCTURE
+##  PROJECT STRUCTURE
 
 
 
@@ -158,7 +157,7 @@ car-rental/
 
 ---
 
-\## 👨‍💻 AUTHOR
+##  AUTHOR
 
 
 
@@ -174,7 +173,7 @@ car-rental/
 
 
 
-\## 📄 LICENSE
+##  LICENSE
 
 
 
@@ -186,7 +185,7 @@ MIT - Free to use and modify.
 
 
 
-\## ⭐ LIKE IT?
+##  LIKE IT?
 
 
 
@@ -195,6 +194,7 @@ Give it a star on GitHub! ⭐
 
 
 ---
+
 
 
 
