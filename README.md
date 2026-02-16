@@ -1,4 +1,4 @@
-# Car Rental
+# Car Rental Agency
 
 
 
@@ -18,23 +18,20 @@ A simple but complete car rental website. PHP, MySQL, star ratings, customer rev
 
 
 
-| Page | Screenshot |
 
-|------|------------|
 
-| 🏠 Home | ![Home](screenshots/home.png) |
-| 🚘 Cars | ![Cars](screenshots/cars.png) |
-| ⭐ Ratings | ![Ratings](screenshots/rating.png) |
-| 📝 Reviews | ![Reviews](screenshots/reviews.png) |
-| 📅 Booking | ![Booking](screenshots/booking.png) |
-| 📱 Mobile | ![Mobile](screenshots/mobile.png) |
+##  Home | ![Home](screenshots/home.png) |
+## Cars | ![Cars](screenshots/cars.png) |
+## Ratings | ![Ratings](screenshots/rating.png) |
+## Reviews | ![Reviews](screenshots/reviews.png) |
+## Booking | ![Booking](screenshots/booking.png) |
 
 
 ---
 
 
 
-\## ⚡ FEATURES
+##  FEATURES
 
 
 
@@ -198,6 +195,7 @@ Give it a star on GitHub! ⭐
 
 
 ---
+
 
 
 
